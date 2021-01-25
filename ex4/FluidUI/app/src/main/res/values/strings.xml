@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FluidUI</string>
+    <string name="lefttop">LeftTop</string>
+    <string name="righttop">RightTop</string>
+    <string name="leftbottom">LeftBottom</string>
+    <string name="rightbottom">RightBottom</string>
+    <string name="hello_android">Hello Android!</string>
+    <string name="android_robot">Android Robot</string>
+    <string name="basic_text">here should be info about employee.</string>
+</resources>

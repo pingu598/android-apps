@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="cityTextView">City</string>
+    <string name="temperatureTextView">Temperature</string>
+    <string name="conditionTextView">Condition</string>
+    <string name="timeTextView">Time</string>
+
+</resources>

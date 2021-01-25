@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Room Shopping List</string>
+    <string name="action_settings">Settings</string>
+    <string name="name_text">Name here</string>
+    <string name="count_text">Count here</string>
+    <string name="price_text">Price here</string>
+    <string name="dialog_title">New item</string>
+    <string name="dialog_message">Add new shopping list item</string>
+    <string name="dialog_ok">Add</string>
+    <string name="dialog_cancel">Cancel</string>
+</resources>

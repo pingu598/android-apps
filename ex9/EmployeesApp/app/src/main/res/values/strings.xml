@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EmployeesApp</string>
+    <string name="title_activity_employee">EmployeeActivity</string>
+</resources>
